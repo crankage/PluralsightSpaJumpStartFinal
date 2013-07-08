@@ -37,6 +37,7 @@
             router.navigateTo(item.hash);
         }
 
+        // Test comment...
 
         function failedInitialization(error) {
             var msg = 'App initialization failed: ' + error.message;
